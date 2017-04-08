@@ -158,11 +158,11 @@ social_icons:
 #avatar:
 
 
-# Table Of Contents in the Sidebar
+# Table Of Contents in the Sidebar 文章自动显示目录
 toc:
   enable: true
 
-  # Automatically add list number to toc.
+  # Automatically add list number to toc. 目录是否自动显示数字序号
   number: true
 
 
